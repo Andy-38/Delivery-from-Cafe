@@ -2,6 +2,10 @@
 
 Delivery from Cafe
 
+## Description
+
+Code is private, only screenshots are available now. Code will be public after publication programm in App Store some times later :)
+
 ## Installation
 
 Use Xcode 12 or above to install
